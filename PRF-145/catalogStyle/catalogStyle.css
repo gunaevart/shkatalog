@@ -1,0 +1,161 @@
+﻿.topItem{
+	margin:0 auto;
+	margin-top:25px;
+	width: 100%;
+}
+.topItem a{
+
+}
+.menuItem {
+	float:left;
+	width: 350px;
+	height: 145px;
+}
+.menuItem a{
+	display:block;
+	padding:2px;
+}
+.menuItem-2{
+	width: 350px;
+	margin-left:0px;
+	float:left;
+}
+.menuItem-2 a{
+	display:block;
+	padding:2px;
+}
+.menuItem-3{
+	margin-left:50px;
+}
+.menuItem-3 a{
+	display:block;
+	padding:2px;
+}
+#topItemFrame{
+	width: 1160px;
+	margin:0 auto;
+	margin-top:25px;
+}
+#top-ItemFrame{
+	width: 1160px;
+	margin-left: -80px;
+}
+iframe{
+	width: 1160px;
+	height: 600px;
+}
+.iframe_item{
+	width: 1160px;
+	height: 900px;
+}
+.catalogmenu{
+	width:800px;
+	margin:0 auto;
+	margin-top:20px;
+	padding-bottom: 25px;
+}
+.CenaItemtText{
+	width: 600px;
+	margin-top: 30px;
+	font-weight: bold;
+	font-size:20px;
+	color:#f8140b;
+	margin-bottom: 5px;
+    margin-left: 10px;
+}
+.priceimg{
+    margin-top:10px;
+	margin: 5px;
+	width:75px;
+	height:85px;
+	border:1px solid #7cd9fe;
+	border-radius:5px;
+	cursor:pointer;
+	float:left;
+}
+.priceimg a{
+	display:block;
+	text-align:center;
+	text-decoration:none;
+	font-size:13px;
+	color:#282828;
+	font-weight: bold;
+}
+.priceimg:hover{
+	border:1px solid #000;
+    margin-top:10px;
+	width:75px;
+	height:85px;
+	border-radius:5px;
+	margin: 5px;
+}
+.priceimg2{
+    margin-top:10px;
+	margin: 5px;
+	width:75px;
+	height:85px;
+	border:1px solid #7cd9fe;
+	border-radius:5px;
+	cursor:pointer;
+	float:left;
+}
+.priceimg2 a{
+	display:block;
+	text-align:center;
+	text-decoration:none;
+	font-size:13px;
+	color:#282828;
+	font-weight: bold;
+}
+.priceimg2:hover{
+	border:1px solid #000;
+    margin-top:10px;
+	width:75px;
+	height:85px;
+	border-radius:5px;
+	margin: 5px;
+}
+.priceimg3{
+    margin-top:10px;
+	margin: 5px;
+	width:75px;
+	height:85px;
+	border:1px solid #7cd9fe;
+	border-radius:5px;
+	cursor:pointer;
+	float:left;
+}
+.priceimg3 a{
+	display:block;
+	text-align:center;
+	text-decoration:none;
+	font-size:13px;
+	color:#282828;
+	font-weight: bold;
+}
+.priceimg3:hover{
+	border:1px solid #000;
+    margin-top:10px;
+	width:75px;
+	height:85px;
+	border-radius:5px;
+	margin: 5px;
+}
+.MenuItemTable{
+	padding-left: 10px;
+	float:left;
+}
+#my_form a{
+	text-decoration:none;
+	color:#f8140b;
+	border:1px dotted #f8140b;
+	padding:3px 10px 3px 10px;
+	border-radius:5px;
+}
+.formItemMan{
+	background-color: #fed79f;
+	width: 330px;
+	margin-left: 425px;
+	padding: 10px;
+	border-radius:5px;
+}
