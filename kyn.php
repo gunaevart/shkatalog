@@ -167,7 +167,10 @@
             <div class="col-md-12">
                <div class="card-group">
                  <div class="card">
-                   <img width="200px" src="img/mainpage/plug.jpg" class="card-img-top" alt="...">
+                  <a href="/plug.php">
+                    <img width="200px" src="img/mainpage/plug.jpg" class="card-img-top" alt="...">
+                  </a>
+                   
                    <div class="card-body">
                      <h5 class="card-title">Навесной Плуг НПЛ-2 / НПЛ-3</h5>
                      <!-- <p class="card-text">Навесной Плуг НПЛ-2 / НПЛ-3.</p> -->
